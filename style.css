@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    margin: auto;
+    display: block;
+    background-image: url("colorful.jpg");
+    background-size: 100%;
+    padding-left: 2rem;
+    padding-right: 3rem;
+}
+
+h1 {
+    margin-top: 3rem;
+    color: brown;
+}
+
+input {
+    display: block;
+    margin-left: 40.5%;
+    border-radius: 1rem;
+    font-size: large;
+    text-align: center;
+}
+
+.add {
+    display: inline;
+    margin-top: 1rem;
+}
